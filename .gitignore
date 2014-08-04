@@ -1,0 +1,4 @@
+db.sqlite3
+logos/*
+rules/*
+*.pyc
